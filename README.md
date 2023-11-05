@@ -1,4 +1,8 @@
-<a href="https://moe-counter.glitch.me/"><img src="https://count.getloli.com/get/@:m-romano" alt=":m-romano" /></a>
+<p>
+    <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+    <a href="https://moe-counter.glitch.me/"><img src="https://count.getloli.com/get/@:m-romano" alt=":m-romano" /></a>
+</p>
+
 
 ## 📖 About me
 - 🧑‍💻 Aspiring Software Developer
@@ -18,5 +22,3 @@
 
 ## 📫 How to reach me:
 You can reach me at the email in my GitHub profile. Follow my socials!
-
-![](https://komarev.com/ghpvc/?username=m-romano&color=420420)
