@@ -1,9 +1,8 @@
 # Hi 👋, I'm Marco
-
 <p>
-    <a href="https://moe-counter.glitch.me/"><img src="https://count.getloli.com/get/@:m-romano" alt=":m-romano" /></a>
-    <img src="https://weather-icon.journeyad.repl.co/@agrigento" align="right">
-<p>
+    <img src="https://count.getloli.com/get/@:m-romano" alt=":m-romano" />
+    <img src="https://weather-icon.journeyad.repl.co/@agrigento" alt="@agrigento" align=right />
+</p>
 
 
 ## 📖 About me
