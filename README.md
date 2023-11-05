@@ -1,6 +1,6 @@
 ## 📖 About Me
 - 🧑‍💻 Aspiring Software Developer
-- 🤓 Btw I use Arch [<img src="https://raw.githubusercontent.com/mar-romano/mar-romano/master/tools/archlinux.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🤓 Btw I use Arch [<img src="https://raw.githubusercontent.com/m-romano/m-romano/main/tools/archlinux.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 ## 🏹 What I'm up to
 - 🔨 I'm currently...
