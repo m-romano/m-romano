@@ -4,7 +4,6 @@
     <img src="https://weather-icon.journeyad.repl.co/@agrigento" alt="@agrigento" align=right />
 </p>
 
-
 ## 📖 About me
 - 🧑‍💻 Aspiring Software Developer
 - 🤓 Btw I use Arch [<img src="https://raw.githubusercontent.com/m-romano/m-romano/main/tools/archlinux.svg" height="30rem" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
@@ -17,6 +16,8 @@
 - 🎯 In the near future, I plan to...
 - 🤞 One day I hope to...
 	- Blast off! 🚀
+    - Reaching the very top of Arasaka Tower.
+    - Play guitar.
 
 ## Languages and Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -72,8 +73,6 @@
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
 
 ## 📫 How to reach me:
 You can reach me at the email in my GitHub profile. Follow my socials!
