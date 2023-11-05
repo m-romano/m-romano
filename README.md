@@ -79,8 +79,8 @@
 You can reach me at the email in my GitHub profile. Follow my socials!
 
 <a href="mailto:marcoromanotech@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Click here to contact me at marcoromanotech@gmail.com">
 </a>
 <a href="https://linkedin.com/in/mar-romano">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="CLick here to view my Linkedin profile">
 </a>
