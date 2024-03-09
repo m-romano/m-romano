@@ -25,7 +25,7 @@
     <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="80" height="80"/></a>
     <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/></a>
     <a href="https://www.debian.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain-wordmark.svg" alt="debian" width="80" height="80"/></a>
-    <a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="80" height="80"/></a>
+    <a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="80" height="80"/></a>
     <a href="https://www.centos.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg" alt="centos" width="80" height="80"/></a>
     <a href="https://nixos.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="80" height="80"/></a>
     <a href="https://www.archlinux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="80" height="80"/></a>
