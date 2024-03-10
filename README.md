@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:m-romano"></a>
+  <a href="https://api.sefinek.net/docs/v2"><img src="https://api.sefinek.net/api/v2/moecounter/@:m-romano&theme=rule34"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Marco</h1>
