@@ -1,6 +1,7 @@
 ## Hi, I'm Marco Romano, technology enthusiast and aspiring developer.
 
 <div align="center">
+  
   ![Marco Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=m-romano&show_icons=true&theme=rose_pine)
   
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-romano&layout=compact&theme=rose_pine)
