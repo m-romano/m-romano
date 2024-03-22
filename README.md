@@ -1,6 +1,6 @@
 ## Hi, I'm Marco Romano, technology enthusiast and aspiring developer.
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   
   ![Marco Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=m-romano&show_icons=true&theme=catppuccin_mocha)
   
