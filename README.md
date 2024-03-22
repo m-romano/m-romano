@@ -2,7 +2,9 @@
 
 <div align="center">
   
-  ![Marco Romano GitHub stats](https://github-readme-stats.vercel.app/api?username=m-romano&show_icons=true&theme=rose_pine) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-romano&layout=compact&theme=rose_pine)
+![](https://github-readme-stats.vercel.app/api?username=m-romano&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m-romano&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-romano&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
 
